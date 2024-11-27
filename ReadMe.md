@@ -324,6 +324,7 @@ POST https://api.divar.ir/oauth2/token
 [راهنما » مقادیر]: ./assets
 [راهنما » اطلاعات آگهی » جستجو]: ./finder/search_post.md
 
+
 <br><br>
 
 <div align="center">
